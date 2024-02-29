@@ -1,0 +1,14 @@
+body{
+   
+    background-color: greenyellow;
+
+}
+
+h1{
+    text-align: center;
+    align-items: center;
+    margin-top: 25%;
+    font-size: 50px;
+    font-weight: bold;
+    color: blue;
+}
